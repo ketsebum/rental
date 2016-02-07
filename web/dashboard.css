@@ -103,3 +103,35 @@ body {
   display: inline-block;
   border-radius: 50%;
 }
+
+.full-circle-green {
+ background-color: green;
+ height: 200px;
+ -moz-border-radius:150px;
+ -webkit-border-radius: 150px;
+ width: 200px;
+}
+
+.full-circle-yellow {
+ background-color: yellow;
+ height: 200px;
+ -moz-border-radius:150px;
+ -webkit-border-radius: 150px;
+ width: 200px;
+}
+
+.full-circle-orange {
+ background-color: orange;
+ height: 200px;
+ -moz-border-radius:150px;
+ -webkit-border-radius: 150px;
+ width: 200px;
+}
+
+.full-circle-red {
+ background-color: red;
+ height: 200px;
+ -moz-border-radius:150px;
+ -webkit-border-radius: 150px;
+ width: 200px;
+}
